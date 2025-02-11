@@ -43,3 +43,6 @@ Email: oykc@mail.ustc.edu.cn
 
 Keywords
 Multi-Objective Optimization, Quantum Control, Multi-Objective Mobile Damped Wave Algorithm.
+
+Paper Link
+The paper can be accessed via: http://arxiv.org/abs/2502.05228
