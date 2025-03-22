@@ -1,4 +1,8 @@
 MOMDWA: Multi-Objective Mobile Damped Wave Algorithm
+
+![image](https://github.com/user-attachments/assets/2be7e29a-d9cf-422a-91c4-359dfee315d0)
+
+
 About
 This repository hosts the implementation of the Multi-Objective Mobile Damped Wave Algorithm (MOMDWA), a novel optimization algorithm introduced in the paper:
 
